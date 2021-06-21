@@ -7,7 +7,7 @@ ext, agent, playlist_artist,repeat,randomSong;
 //Initialization of Array of Music, Title, Poster Image, Artists
 
 dir="music/";
-playlist = ["Kar Har Maidaan Fateh"];
+playlist = ["Kar Har Maidaan Fateh (Sanju)"];
 title = ["Kar Har Maidaan Fateh",];
 
 artists = ["Sanju"];
